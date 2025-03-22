@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevinJardiolin">Software Engineer</a>, <a href="https://www.linkedin.com/in/Cloyd-kevin-jardiolin-63977a201/"> </h1>
+<h1>Hi, I'm Kevin! <br/><a href="https://github.com/KevinJardiolin">Software Engineer</a> <a href="https://www.linkedin.com/in/Cloyd-kevin-jardiolin-63977a201/"> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
